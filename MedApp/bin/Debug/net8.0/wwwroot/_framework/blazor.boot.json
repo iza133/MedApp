@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MedApp",
   "resources": {
-    "hash": "sha256-tWbf4dj9KWO0Ktky+0a1XGcoE8ul5oQPZTRxPYXUo1Q=",
+    "hash": "sha256-OjWMEJFXp91JYWb92WObbVgfXQPji4Sa2hrKEPTH6dE=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.dezf0sk6r6.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "MedApp.wasm": "sha256-xz4FZYYsBBwWJKbvhSD1MDq3Vui3QB5rSm0REbaZZlE="
+      "MedApp.wasm": "sha256-yVwSB/s53RsjoATgXpf4DnbN/z58wVnHABzWRtTQNIY="
     },
     "pdb": {
-      "MedApp.pdb": "sha256-1TWHYjgFOx3xjv0uH60BhIxtU3ExsOXZyHIS8M+6DhM="
+      "MedApp.pdb": "sha256-FlAI4HBRm+hM4tO9K5CS/8BW5vyHWXXTl43mYmYHjLE="
     }
   },
   "cacheBootResources": true,
