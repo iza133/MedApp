@@ -13,43 +13,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = MedApp
 build_property.RootNamespace = MedApp
-build_property.ProjectDir = /Users/igolec/Documents/tmp/MedApp/MedApp/
+build_property.ProjectDir = D:\projects\dupa\MedApp\MedApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/igolec/Documents/tmp/MedApp/MedApp
+build_property.MSBuildProjectDirectory = D:\projects\dupa\MedApp\MedApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/App.razor]
+[D:/projects/dupa/MedApp/MedApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[D:/projects/dupa/MedApp/MedApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+[D:/projects/dupa/MedApp/MedApp/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/Pages/Patients.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGF0aWVudHMucmF6b3I=
+[D:/projects/dupa/MedApp/MedApp/Pages/Patients.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+[D:/projects/dupa/MedApp/MedApp/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/_Imports.razor]
+[D:/projects/dupa/MedApp/MedApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-7jqlkpl425
+[D:/projects/dupa/MedApp/MedApp/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hjz8tarjeq
 
-[/Users/igolec/Documents/tmp/MedApp/MedApp/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-h0satj6arg
+[D:/projects/dupa/MedApp/MedApp/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yje59kjj41

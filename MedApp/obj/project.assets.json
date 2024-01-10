@@ -2114,24 +2114,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/igolec/.nuget/packages/": {}
+    "C:\\Users\\epora\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/igolec/Documents/tmp/MedApp/MedApp/MedApp.csproj",
+      "projectUniqueName": "D:\\projects\\dupa\\MedApp\\MedApp\\MedApp.csproj",
       "projectName": "MedApp",
-      "projectPath": "/Users/igolec/Documents/tmp/MedApp/MedApp/MedApp.csproj",
-      "packagesPath": "/Users/igolec/.nuget/packages/",
-      "outputPath": "/Users/igolec/Documents/tmp/MedApp/MedApp/obj/",
+      "projectPath": "D:\\projects\\dupa\\MedApp\\MedApp\\MedApp.csproj",
+      "packagesPath": "C:\\Users\\epora\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\dupa\\MedApp\\MedApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/igolec/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\epora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2198,7 +2206,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
