@@ -6,14 +6,10 @@ namespace Project.Models
     {
         public PatientInfo patientInfo;
 
-        public List<int> medList;
-        
-        // public Patient(){
-            
-        //     Console.WriteLine(medList[0]);
-        // }
-
-        
-
+        public List<Medication> medList;
+        public Patient()
+        {
+            Console.WriteLine(medList[0]);
+        }
     }
 }

@@ -1,18 +1,14 @@
 [
     {
-       "Id": 7,
+        "Id": 7,
         "Name": "witamina C"
     },
-
     {
         "Id": 4,
         "Name": "Omega 3"
     },
-
     {
         "Id": 1,
         "Name": "zelazo"
     }
-
-
 ]
